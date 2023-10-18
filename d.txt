@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Hello happy!
-=======
 import java.util.Scanner;
 
 public class PasswordManager {
@@ -162,4 +159,3 @@ public class PasswordManager {
         return true;
     }
 }
->>>>>>> dev
