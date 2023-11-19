@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 //修改12
+
 import java.util.*;
 
 public class PasswordManager {
