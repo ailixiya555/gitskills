@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //琪亚娜，出击！
 
 import java.util.Scanner;
@@ -62,3 +63,6 @@ public class PasswordManager {
     }
 }
 
+=======
+# gitskills
+>>>>>>> 1094a4ed568cfa99df14cf2ed25f03e643bb13f3
